@@ -48,6 +48,7 @@ Berikut adalah video penjelasan penggunaan Git dan GitHub dalam pengerjaan tugas
 
 > Video mencakup penjelasan:
 > - Perbedaan Git dan GitHub
+link video
 > - Penggunaan git init, add, commit, branch, push
 > - Praktik kerja dengan VS Code dan GitHub
 > - Penjelasan isi repositori
